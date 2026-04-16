@@ -40,7 +40,6 @@ python_codes/   → Simulation, ML model, communication
 verilog/        → FPGA design (UART + display)  
 dataset/        → Sample training images  
 results/        → Output results  
-docs/           → Report and diagrams  
 ```
 
 ---
